@@ -1,0 +1,22 @@
+id: AE76E92D0
+title: Prayer to Machik Labdrön
+type: translation
+pechas:
+- I3BFDD8A8
+- I743F9D39
+- IC282945C
+source_metadata:
+  languages:
+  - en
+  - pt
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:01:08.904583
+  last_modified_at: 2023-01-04 13:01:08.904601
+  collections:
+  - Machik Labdrön Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I3BFDD8A8/091B: FC28
+  I743F9D39/5504: FC28
+  IC282945C/2CA2: FC28
